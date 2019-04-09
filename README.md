@@ -4,7 +4,7 @@ This project is about visualizing profanity in Rap music with data available fro
 # Introduction
 
 # Resources
-https://nycdatascience.com/blog/student-works/analyzing-evolution-rap-music-1989-2016/
-http://lab.musixmatch.com/profanity_genres/#analysis
-https://consequenceofsound.net/2014/04/well-hot-damn-heres-a-breakdown-of-raps-most-profane-artists/
-https://www.besttickets.com/blog/rap-profanity/
+. https://nycdatascience.com/blog/student-works/analyzing-evolution-rap-music-1989-2016/
+. http://lab.musixmatch.com/profanity_genres/#analysis
+. https://consequenceofsound.net/2014/04/well-hot-damn-heres-a-breakdown-of-raps-most-profane-artists/
+. https://www.besttickets.com/blog/rap-profanity/
