@@ -32,9 +32,32 @@ The Primary Objective is to extract a story out of the dataset to help music ind
 
 # Exploratory Analysis
 As a avid music listener,I want to leverage opportunity in this class to be a great narrator of the data related to music. So, I decided I would analyze a music data for my project. To my surprise, I found this dataset through the list of datasets provided in class and it aligns perfectly well with my area of interest. The dataset comprised of many numerical variables along with three Designator variables and one Quantitative variable. The dataset is perfectly organized it has neither a null value nor any missing data. 
-Although The dataset is already comprehensive I want to add an additional column showing the location of the Arist/Band is from. For this I want to use Python to scrape the locations of different artists or add the manually through a Googld Search. By adding loation column I'm assuming to analyze about how a culture in a particular state can impact rappers. During this exploratory analysis I will try different combinations of variables to determine most and least profane artists.
 
+Although The dataset is already comprehensive I want to add an additional column showing the location of the Arist/Band is from. For this I want to use Python to scrape the locations of different artists or add the manually through a Googld Search. By adding loation column I'm assuming to analyze about how a culture in a particular state can impact rappers. During this exploratory analysis I will try different combinations of variables to determine most and least profane artists along with many other insights.
 
+The dataset will enable me to create interactive dashboards at the same time answering different cases/queries.
+* Preliminary analysis should be done to find the frequency of profane words in folk songs in comparision with hip-hop.
+* Further analysis involves finding the most profane word along with top artists using them.
+* Detailed analysis should be done to find the sudden rise in use of profane words in the given 33 year range.
+* Locating the artists on a Map and finding where more profane artists are from.
+
+All the above mentioned are my primary targets to derive from the dataset. I will add few more insights along the way into dashboards creation.
+
+# Explanatory Analysis
+### Audience
+The analysis of my data would be in general for anyone who intersts/loves music, rap songs and hip-hop bands.
+
+### Relationship to the Audience
+My role is assumed to be a Business Intelligence Analyst for Music Censorboard.
+
+### Expectation from Audience
+Through my analysis and data story, I'm expecting:
+* To create a little concern in my audience over the music industry.
+* Songwriters would minimize or avoid profane language rather be more meaningful. 
+
+### Usage of my data to convey the point
+Data wouldn’t make sense by just looking at it. Data has plenty of information to be conveyed once it is put into the right form.
+I will be using the data in my dataset to state the rise of profane language in music industry and present that data visually my audience and bringing out a new perspective to my audience thus helping them to understand how profane language has taken a new default position.
 
 # Resources
 * https://nycdatascience.com/blog/student-works/analyzing-evolution-rap-music-1989-2016/
