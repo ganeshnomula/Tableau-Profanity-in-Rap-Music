@@ -10,8 +10,19 @@ The dataset I have chosen for the project contains a comprehensive list of 15 mo
 
 The Primary Objective is to extract a story out of the dataset to help music industry to understand about the insane rise of profane lanugage in the songs. I want to leverage opportunity through this class and added with my interest in music to frame an interesting story from this dataset. The story contains descriptive analysis using various statistical visualizations of variables in the dataset. The following table gives metadata.
 
-| __Column Name__  | Second Header |
+| __Column Name__  | __Description__ |
 | ------------- | ------------- |
+| Year  | Year of the Album/Song released. |
+| Album  | Name of the Album  |
+| Artist  | Name of the Artist  |
+| Song  | Name of the Song  |
+| F*'ck  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
