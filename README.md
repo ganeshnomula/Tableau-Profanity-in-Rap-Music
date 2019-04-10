@@ -12,19 +12,26 @@ The Primary Objective is to extract a story out of the dataset to help music ind
 
 | __Column Name__  | __Description__ |
 | ------------- | ------------- |
-| Year  | Year of the Album/Song released. |
+| Year  | Year of the Album/Song released |
 | Album  | Name of the Album  |
 | Artist  | Name of the Artist  |
 | Song  | Name of the Song  |
-| F\*ck  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| F\*ck  | Number of times F\*ck is used |
+| Sh\*t  | Number of times Sh\*t is used|
+| B\*tch  | Number of times F\*ck is used |
+| P\*ssy  | Number of times Sh\*t is used|
+| Ho\€  | Number of times F\*ck is used |
+| Sh\*t  | Number of times Sh\*t is used|
+| F\*ck  | Number of times F\*ck is used |
+| Sh\*t  | Number of times Sh\*t is used|
+| F\*ck  | Number of times F\*ck is used |
+| Sh\*t  | Number of times Sh\*t is used|
+| F\*ck  | Number of times F\*ck is used |
+| Sh\*t  | Number of times Sh\*t is used|
+| F\*ck  | Number of times F\*ck is used |
+| Sh\*t  | Number of times Sh\*t is used|
+| F\*ck  | Number of times F\*ck is used |
+
 
 # Exploratory Analysis
 
