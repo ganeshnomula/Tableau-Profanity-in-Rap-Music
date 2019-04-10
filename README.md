@@ -16,7 +16,7 @@ The Primary Objective is to extract a story out of the dataset to help music ind
 | Album  | Name of the Album  |
 | Artist  | Name of the Artist  |
 | Song  | Name of the Song  |
-| F*'ck  | Content Cell  |
+| F\*ck  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
