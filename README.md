@@ -59,6 +59,8 @@ Through my analysis and data story, I'm expecting:
 Data wouldn’t make sense by just looking at it. Data has plenty of information to be conveyed once it is put into the right form.
 I will be using the data in my dataset to state the rise of profane language in music industry and present that data visually my audience and bringing out a new perspective to my audience thus helping them to understand how profane language has taken a new default position.
 
+# Storyboarding
+
 # Resources
 * https://nycdatascience.com/blog/student-works/analyzing-evolution-rap-music-1989-2016/
 * http://lab.musixmatch.com/profanity_genres/#analysis
