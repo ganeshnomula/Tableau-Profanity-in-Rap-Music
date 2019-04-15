@@ -62,6 +62,7 @@ Data wouldn’t make sense by just looking at it. Data has plenty of information
 I will be using the data in my dataset to state the rise of profane language in music industry and present that data visually my audience and bringing out a new perspective to my audience thus helping them to understand how profane language has taken a new default position.
 
 # Resources
+* http://www.besttickets.com/blog/wp-content/uploads/2013/12/Rap-Profanity-Data-Collective.csv - Profanity in Rap music from 1985 – 2013 Dataset
 * https://nycdatascience.com/blog/student-works/analyzing-evolution-rap-music-1989-2016/
 * http://lab.musixmatch.com/profanity_genres/#analysis
 * https://consequenceofsound.net/2014/04/well-hot-damn-heres-a-breakdown-of-raps-most-profane-artists/
