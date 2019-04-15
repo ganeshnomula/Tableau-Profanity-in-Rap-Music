@@ -3,6 +3,7 @@ import pandas as pd
 
 df = pd.read_csv('Final_Dataset.csv', header=0, encoding='unicode_escape')
 
+
 occurences_artists = df.Artist.value_counts()  # counts number of times the artist name has appeared
 
 # print('Before: ', df.Artist.unique())
@@ -90,6 +91,8 @@ artist_location('Pusha T', 'New York', 'New York')
 
 print(df.State.unique())
 print(df.State.value_counts())
+
+print(df.head())
 
 # Exporting CSV
 export_csv = df.to_csv('Profane_Music_Dataset_Final.csv')
