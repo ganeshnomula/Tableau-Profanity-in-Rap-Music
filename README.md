@@ -29,6 +29,8 @@ The Primary Objective is to extract a story out of the dataset to help music ind
 | C\*nt  | Number of times C\*nt is used |
 | Ass  | Number of times Ass is used|
 | Total  | Combined total of Number of times all the profane words used |
+| City  | City Origin of Rapper/ Band |
+| State  | State Origin of Rapper/ Band |
 
 # Exploratory Analysis
 As a avid music listener,I want to leverage opportunity in this class to be a great narrator of the data related to music. So, I decided I would analyze a music data for my project. To my surprise, I found this dataset through the list of datasets provided in class and it aligns perfectly well with my area of interest. The dataset comprised of many numerical variables along with three Designator variables and one Quantitative variable. The dataset is perfectly organized it has neither a null value nor any missing data. 
