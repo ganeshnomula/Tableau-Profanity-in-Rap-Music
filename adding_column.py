@@ -58,7 +58,7 @@ artist_location('Jay-Z', 'Brooklyn', 'New York')
 artist_location('Outkast', 'Atlanta', 'Georgia')
 artist_location('Busta Rhymes', 'Brooklyn', 'New York')
 artist_location('O.C.', 'Brooklyn', 'New York')
-artist_location('Big Pun', 'Bronx', 'New York')
+artist_location('Big Pun', 'The Bronx', 'New York')
 artist_location('Juvenile', 'New Orleans', 'Louisiana')
 artist_location('Eminem', 'St. Joseph', 'Missouri')
 artist_location('Mos Def', 'Brooklyn', 'New York')
@@ -95,82 +95,7 @@ print(df.State.value_counts())
 print(df.head())
 
 # Exporting CSV
-export_csv = df.to_csv('Profane_Music_Dataset_Final.csv')
-
-"""'LL Cool J' 'Run DMC' 'Too $hort' 'World Class Wreckin Cru' '2 Live Crew'
- 'Afrika Bambaataa' 'Beastie Boys' 'Boogie Down' 'Dana Dane' 'NWA'
- 'Public Enemy' 'Eazy-E' 'Slick Rick' 'De La Soul' 'EPMD' 'Ghetto Boys'
- 'Kool G Rap' 'A Tribe Called Quest' 'Brand Nubian' 'Gang Starr'
- 'Ice Cube' 'Main Source' 'Diamond D' 'Dr. Dre' 'Pete Rock & CL Smooth'
- 'Redman' 'KRS1' 'Snoop Dogg' 'Wu-Tang Clan' 'Common' 'Jeru The Damaja'
- 'Nas' 'Notorious B.I.G.' 'Scarface' 'Goodie Mob' 'Mobb Deep' 'Raekwon'
- 'The Roots' 'Tupac' 'Fugees' 'Jay-Z' 'Outkast' 'Busta Rhymes' 'O.C.'
- 'Big Pun' 'Juvenile' 'Eminem' 'Mos Def' 'Ludacris' 'Nelly' 'Ja Rule'
- '50 Cent' 'Chingy' 'T.I.' 'D12' 'Kanye West' 'Madvillain' 'The Game'
- 'Clipse' 'Ghostface Killah' 'Lupe Fiasco' 'UGK' 'Bun B' "Lil' Wayne"
- 'Big Boi' 'Drake' 'Rick Ross' 'J. Cole' 'Jay-Z + Kanye' 'Kendrick Lamar'
- 'Macklemore & Ryan Lewis' 'Schoolboy Q' 'Pusha T']
-Jay-Z                      165
-Eminem                     160
-Kanye West                  92
-Outkast                     86
-Nas                         78
-50 Cent                     75
-T.I.                        71
-Tupac                       71
-De La Soul                  61
-A Tribe Called Quest        58
-Drake                       51
-Raekwon                     44
-Wu-Tang Clan                43
-Common                      42
-The Roots                   42
-Notorious B.I.G.            42
-Public Enemy                42
-NWA                         38
-Gang Starr                  37
-Dr. Dre                     37
-Lil' Wayne                  37
-Snoop Dogg                  37
-Ice Cube                    34
-UGK                         34
-Goodie Mob                  34
-Kendrick Lamar              33
-Mos Def                     32
-Rick Ross                   29
-Ludacris                    28
-Kool G Rap                  26
-                          ... 
-J. Cole                     17
-Pete Rock & CL Smooth       17
-The Game                    17
-Lupe Fiasco                 17
-Big Boi                     16
-Jay-Z + Kanye               16
-Ja Rule                     16
-Juvenile                    16
-Brand Nubian                15
-Nelly                       15
-Mobb Deep                   15
-KRS1                        14
-Fugees                      14
-O.C.                        14
-Redman                      14
-Chingy                      14
-Diamond D                   13
-Pusha T                     12
-EPMD                        12
-Eazy-E                      12
-Slick Rick                  12
-Clipse                      12
-Jeru The Damaja             11
-Scarface                    10
-Main Source                 10
-Ghetto Boys                 10
-2 Live Crew                  6
-Dana Dane                    5
-Afrika Bambaataa             4
-World Class Wreckin Cru      2"""
+export_csv = df.to_csv('Profane_Music_Dataset_Final.csv', index=False)
 
 
 
