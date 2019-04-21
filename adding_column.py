@@ -94,8 +94,8 @@ print(df.State.value_counts())
 
 print(df.head())
 
-# Exporting CSV
-export_csv = df.to_csv('Profane_Music_Dataset_Final.csv', index=False)
+# Exporting Excel File for Tableau
+export_excel = df.to_excel('Profane_Music_Dataset_Final.xlsx', index=False)
 
 
 
