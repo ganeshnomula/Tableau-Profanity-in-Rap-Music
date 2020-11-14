@@ -1,5 +1,5 @@
 # Tableau-Profanity-in-Rap-Music
-This project is about visualizing profanity in Rap music with data available from 1985 to 2013[VIZ LINK](https://public.tableau.com/profile/ganesh.nomula#!/vizhome/Tableau_Does_Culture_Effect_Music_Final/ProfanityinRapMusicfrom1985-2013?publish=yes)
+This project is about visualizing profanity in Rap music with data available from 1985 to 2013 [VIZ LINK](https://public.tableau.com/profile/ganesh.nomula#!/vizhome/Tableau_Does_Culture_Effect_Music_Final/ProfanityinRapMusicfrom1985-2013?publish=yes)
 
 # Introduction
 As we all know, a common ingredient in many rap lyrics is shameless profanity. No word is off limits. With f-bombs and assorted slurs streaming through popular music, it’s no shock that some people are up in arms against rap. Is it appropriate for them to be spitting profanity-laced lyrics to the world? 
